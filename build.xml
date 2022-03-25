@@ -1,3 +1,6 @@
-<project name="demo">
+<project name="demo" default="run">
    <echo message="build.xml is a file used in ant"/>
+   <target name="run">
+      <echo message="this is a target run"/>
+   </target>
 </project>
