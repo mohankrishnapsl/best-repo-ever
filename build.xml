@@ -1,0 +1,3 @@
+<project name="demo">
+   <echo message="build.xml is a file used in ant"/>
+</project>
