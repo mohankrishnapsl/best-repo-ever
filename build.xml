@@ -2,5 +2,6 @@
    <echo message="build.xml is a file used in ant"/>
    <target name="run">
       <echo message="this is a target run"/>
+      <echo message="this is the first target created"/>
    </target>
 </project>
